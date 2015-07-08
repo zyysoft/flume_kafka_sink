@@ -1,4 +1,4 @@
-package com.b5m.bi;
+package com.zyy.bi;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
